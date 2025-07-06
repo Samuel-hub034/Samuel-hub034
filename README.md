@@ -8,12 +8,7 @@
 
 Thanks for visiting my GitHub profile!  
 Feel free to check out my repositories and follow my learning journey.
-# 👋 Hi, I’m Samuel-hub034!
 
-🎓 **Student**  
-💻 **JavaScript Enthusiast**
-
-## 🚀 Featured Project
 
 - **Atividades práticas 39**  
   Hands-on coding activities and exercises to sharpen my JavaScript skills.
