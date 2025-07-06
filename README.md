@@ -1,4 +1,4 @@
-# 👋 Olá eu souSamuel!
+# 👋 Olá eu sou Samuel!
 
 🎓 **estudante**  
 💻 *Programador javascript **
