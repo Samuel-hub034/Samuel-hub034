@@ -1,5 +1,17 @@
-## Hi there 👋
+# 👋 Olá eu souSamuel!
 
+🎓 **estudante**  
+💻 *Programador javascript **
+
+
+---
+
+Thanks for visiting my GitHub profile!  
+Feel free to check out my repositories and follow my learning journey.
+
+<!--
+You can always update this README to add more details, your social links, or a fun personal touch!
+-->
 <!--
 **Samuel-hub034/Samuel-hub034** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
