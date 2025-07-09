@@ -2,6 +2,8 @@
 
 🎓 **estudante**  
 💻 *Programador javascript **
+🌱 Estou aprendendo logica de programação,iniciando no JavaScript.
+😄 Pronomes: Ele/Dele.
 ✨ *Faço curso de informatica no senai*
 
 
