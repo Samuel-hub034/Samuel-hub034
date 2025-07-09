@@ -2,7 +2,6 @@
 
 🎓 **estudante**  
 💻 *Programador javascript **
-
 ✨ *Faço curso de informatica no senai*
 
 
