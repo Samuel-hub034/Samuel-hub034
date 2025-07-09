@@ -1,7 +1,6 @@
 # 👋 Olá eu sou Samuel!
 
 🎓 **estudante**  
-💻 *Programador javascript **
 
 - 🔭 Estou trabalhando no momento com front-end.
 - 🌱 Estou aprendendo logica de programação,iniciando no JavaScript.
